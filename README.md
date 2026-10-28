@@ -2,6 +2,10 @@
 
 A responsive full-stack travel planner built from the project outline in the supplied screenshot. It includes a React/Vite frontend and an Express backend. It runs locally without paid APIs or API keys.
 
+# Live Demo :
+- Live Website: https://travel-planner-eight-khaki.vercel.app
+- Backend API: https://roamly-backend-zc79.onrender.com
+
 ## Features
 
 - Personalized destination matching from interests, budget, travel style and companions
