@@ -5,6 +5,7 @@ A responsive full-stack travel planner built from the project outline in the sup
 # Live Demo :
 - Live Website: https://travel-planner-eight-khaki.vercel.app
 - Backend API: https://roamly-backend-zc79.onrender.com
+- Demo video: https://drive.google.com/file/d/1YnM3kNN96edzYZq390xNn3U_wqm3OI6R/view?usp=drive_link
 
 ## Features
 
